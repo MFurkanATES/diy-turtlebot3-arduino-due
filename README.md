@@ -1,1 +1,3 @@
 # diy-turtlebot3-arduino-due
+Motor sürücü kartı olarak arduino due kullanılmıştır.Diferansiyel sürüş kodu ve odometri bilgisini yayınlayan bir yapı vardır.Robot ,teleop modunda iken düşük hızlarda kesikli olarak çalışmakta hız arttırıldığında kesikli çalışma düzelmektedir.Sürüş konusunda arduino due içerisinde ki pid kontrolcu ayarlı değilsede bu kesikli çalışma olmaktadir.Yakın zamanda bu çalışma bittiğinde karşılaşılan sorunlar ve çözümleri detaylı olarak anlatılacak ve devre şematikleri paylaşılacaktır.Ana proje linkleri bunlardır.https://hackaday.io/project/167074-build-your-own-turtlebot-3-backbone
+https://www.instructables.com/Build-Your-Own-Turtblebot-Robot/
